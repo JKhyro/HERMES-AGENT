@@ -1,3 +1,17 @@
+<!--
+KHYRON mirror note — do not remove on upstream sync.
+
+This repository is the JKhyro mirror of NousResearch/hermes-agent and serves as
+the runtime spine for the 7-Symbiote swarm under FURYOKU (Project #20) and
+SYMBIOSIS (Project #10). The live agent runtime moved from OpenClaw to
+Hermes Agent; OpenClaw is demoted to a feature-harvest lane, not a host runtime.
+
+- Authoritative migration plan: https://github.com/JKhyro/FURYOKU/blob/main/docs/hermes-furyoku-migration.md
+- OpenClaw carryover rules: https://github.com/JKhyro/FURYOKU/blob/main/docs/openclaw-carryover-inventory.md
+
+Everything below this comment is upstream Nous Research content preserved as-is.
+-->
+
 <p align="center">
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
